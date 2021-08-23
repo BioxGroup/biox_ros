@@ -1,0 +1,10 @@
+Symlinking /home/martin/Documents/repositories/ur_test/devel/lib/libur_robot_driver_plugin.so
+Symlinking /home/martin/Documents/repositories/ur_test/devel/lib/liburcl_log_handler.so
+Symlinking /home/martin/Documents/repositories/ur_test/devel/lib/pkgconfig/ur_robot_driver.pc
+Symlinking /home/martin/Documents/repositories/ur_test/devel/lib/ur_robot_driver/dashboard_client
+Symlinking /home/martin/Documents/repositories/ur_test/devel/lib/ur_robot_driver/robot_state_helper
+Symlinking /home/martin/Documents/repositories/ur_test/devel/lib/ur_robot_driver/tool_communication
+Symlinking /home/martin/Documents/repositories/ur_test/devel/lib/ur_robot_driver/ur_robot_driver_node
+Symlinking /home/martin/Documents/repositories/ur_test/devel/lib/ur_robot_driver/cmake.lock
+Symlinking /home/martin/Documents/repositories/ur_test/devel/share/ur_robot_driver/cmake/ur_robot_driverConfig-version.cmake
+Symlinking /home/martin/Documents/repositories/ur_test/devel/share/ur_robot_driver/cmake/ur_robot_driverConfig.cmake

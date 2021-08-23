@@ -1,0 +1,12 @@
+fmauch_universal_robot/ur_kinematics
+/home/martin/Documents/repositories/ur_test/devel/.private/ur_kinematics/cmake.lock /home/martin/Documents/repositories/ur_test/devel/./cmake.lock
+/home/martin/Documents/repositories/ur_test/devel/.private/ur_kinematics/lib/libur10_kin.so /home/martin/Documents/repositories/ur_test/devel/lib/libur10_kin.so
+/home/martin/Documents/repositories/ur_test/devel/.private/ur_kinematics/lib/libur10_moveit_plugin.so /home/martin/Documents/repositories/ur_test/devel/lib/libur10_moveit_plugin.so
+/home/martin/Documents/repositories/ur_test/devel/.private/ur_kinematics/lib/libur3_kin.so /home/martin/Documents/repositories/ur_test/devel/lib/libur3_kin.so
+/home/martin/Documents/repositories/ur_test/devel/.private/ur_kinematics/lib/libur5_moveit_plugin.so /home/martin/Documents/repositories/ur_test/devel/lib/libur5_moveit_plugin.so
+/home/martin/Documents/repositories/ur_test/devel/.private/ur_kinematics/lib/libur3_moveit_plugin.so /home/martin/Documents/repositories/ur_test/devel/lib/libur3_moveit_plugin.so
+/home/martin/Documents/repositories/ur_test/devel/.private/ur_kinematics/lib/libur5_kin.so /home/martin/Documents/repositories/ur_test/devel/lib/libur5_kin.so
+/home/martin/Documents/repositories/ur_test/devel/.private/ur_kinematics/lib/pkgconfig/ur_kinematics.pc /home/martin/Documents/repositories/ur_test/devel/lib/pkgconfig/ur_kinematics.pc
+/home/martin/Documents/repositories/ur_test/devel/.private/ur_kinematics/lib/python3/dist-packages/ur_kinematics/__init__.py /home/martin/Documents/repositories/ur_test/devel/lib/python3/dist-packages/ur_kinematics/__init__.py
+/home/martin/Documents/repositories/ur_test/devel/.private/ur_kinematics/share/ur_kinematics/cmake/ur_kinematicsConfig-version.cmake /home/martin/Documents/repositories/ur_test/devel/share/ur_kinematics/cmake/ur_kinematicsConfig-version.cmake
+/home/martin/Documents/repositories/ur_test/devel/.private/ur_kinematics/share/ur_kinematics/cmake/ur_kinematicsConfig.cmake /home/martin/Documents/repositories/ur_test/devel/share/ur_kinematics/cmake/ur_kinematicsConfig.cmake

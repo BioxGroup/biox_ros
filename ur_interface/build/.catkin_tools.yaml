@@ -1,0 +1,6 @@
+devel_space: /home/martin/Documents/repositories/ur_test/devel
+install: false
+install_space: /home/martin/Documents/repositories/ur_test/install
+profile: default
+source_space: /home/martin/Documents/repositories/ur_test/src
+workspace: /home/martin/Documents/repositories/ur_test

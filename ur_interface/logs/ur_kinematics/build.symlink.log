@@ -1,0 +1,10 @@
+Symlinking /home/martin/Documents/repositories/ur_test/devel/lib/libur10_kin.so
+Symlinking /home/martin/Documents/repositories/ur_test/devel/lib/libur10_moveit_plugin.so
+Symlinking /home/martin/Documents/repositories/ur_test/devel/lib/libur3_kin.so
+Symlinking /home/martin/Documents/repositories/ur_test/devel/lib/libur5_moveit_plugin.so
+Symlinking /home/martin/Documents/repositories/ur_test/devel/lib/libur3_moveit_plugin.so
+Symlinking /home/martin/Documents/repositories/ur_test/devel/lib/libur5_kin.so
+Symlinking /home/martin/Documents/repositories/ur_test/devel/lib/pkgconfig/ur_kinematics.pc
+Symlinking /home/martin/Documents/repositories/ur_test/devel/lib/python3/dist-packages/ur_kinematics/__init__.py
+Symlinking /home/martin/Documents/repositories/ur_test/devel/share/ur_kinematics/cmake/ur_kinematicsConfig-version.cmake
+Symlinking /home/martin/Documents/repositories/ur_test/devel/share/ur_kinematics/cmake/ur_kinematicsConfig.cmake

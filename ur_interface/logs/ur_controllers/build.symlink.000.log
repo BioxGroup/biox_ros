@@ -1,0 +1,4 @@
+Symlinking /home/martin/Documents/repositories/ur_test/devel/lib/libur_controllers.so
+Symlinking /home/martin/Documents/repositories/ur_test/devel/lib/pkgconfig/ur_controllers.pc
+Symlinking /home/martin/Documents/repositories/ur_test/devel/share/ur_controllers/cmake/ur_controllersConfig-version.cmake
+Symlinking /home/martin/Documents/repositories/ur_test/devel/share/ur_controllers/cmake/ur_controllersConfig.cmake

@@ -1,0 +1,40 @@
+[  4%] Built target controller_manager_example
+[ 13%] Built target interactivity_utils
+[ 18%] Built target ros_api_tutorial
+[ 22%] Built target motion_planning_api_tutorial
+[ 27%] Built target motion_planning_pipeline_tutorial
+[ 31%] Built target move_group_interface_tutorial
+[ 36%] Built target bag_publisher_maintain_time
+[ 40%] Built target detect_and_add_cylinder_collision_object_demo
+[ 45%] Built target pick_place_tutorial
+[ 50%] Built target planning_scene_tutorial
+[ 54%] Built target planning_scene_ros_api_tutorial
+[ 59%] Built target robot_model_and_robot_state_tutorial
+[ 63%] Built target state_display_tutorial
+[ 65%] [32mBuilding CXX object doc/subframes/CMakeFiles/subframes_tutorial.dir/src/subframes_tutorial.cpp.o[0m
+[ 68%] [32mBuilding CXX object doc/trajopt_planner/CMakeFiles/trajopt_example.dir/src/trajopt_example.cpp.o[0m
+[ 70%] [32mBuilding CXX object doc/creating_moveit_plugins/lerp_motion_planner/CMakeFiles/moveit_lerp_planner_plugin.dir/src/lerp_planner_manager.cpp.o[0m
+[ 72%] [32mBuilding CXX object doc/creating_moveit_plugins/lerp_motion_planner/CMakeFiles/moveit_lerp_planner_plugin.dir/src/lerp_interface.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable /home/martin/Documents/repositories/ur_test/devel/.private/moveit_tutorials/lib/moveit_tutorials/trajopt_example[0m
+[ 77%] [32mBuilding CXX object doc/creating_moveit_plugins/lerp_motion_planner/CMakeFiles/moveit_lerp_planner_plugin.dir/src/lerp_planning_context.cpp.o[0m
+[ 77%] Built target trajopt_example
+[ 79%] [32m[1mLinking CXX executable /home/martin/Documents/repositories/ur_test/devel/.private/moveit_tutorials/lib/moveit_tutorials/subframes_tutorial[0m
+[ 79%] Built target subframes_tutorial
+[35m[1mScanning dependencies of target lerp_example[0m
+[ 81%] [32mBuilding CXX object doc/creating_moveit_plugins/lerp_motion_planner/CMakeFiles/lerp_example.dir/src/lerp_example.cpp.o[0m
+[ 84%] [32m[1mLinking CXX shared library /home/martin/Documents/repositories/ur_test/devel/.private/moveit_tutorials/lib/libmoveit_lerp_planner_plugin.so[0m
+[ 84%] Built target moveit_lerp_planner_plugin
+[35m[1mScanning dependencies of target moveit_cpp_tutorial[0m
+[ 86%] [32mBuilding CXX object doc/moveit_cpp/CMakeFiles/moveit_cpp_tutorial.dir/src/moveit_cpp_tutorial.cpp.o[0m
+[35m[1mScanning dependencies of target visualizing_collisions_tutorial[0m
+[ 88%] [32mBuilding CXX object doc/visualizing_collisions/CMakeFiles/visualizing_collisions_tutorial.dir/src/visualizing_collisions_tutorial.cpp.o[0m
+[35m[1mScanning dependencies of target bullet_collision_checker_tutorial[0m
+[ 90%] [32m[1mLinking CXX executable /home/martin/Documents/repositories/ur_test/devel/.private/moveit_tutorials/lib/moveit_tutorials/visualizing_collisions_tutorial[0m
+[ 93%] [32mBuilding CXX object doc/bullet_collision_checker/CMakeFiles/bullet_collision_checker_tutorial.dir/src/bullet_collision_checker_tutorial.cpp.o[0m
+[ 93%] Built target visualizing_collisions_tutorial
+[ 95%] [32m[1mLinking CXX executable /home/martin/Documents/repositories/ur_test/devel/.private/moveit_tutorials/lib/moveit_tutorials/moveit_cpp_tutorial[0m
+[ 95%] Built target moveit_cpp_tutorial
+[ 97%] [32m[1mLinking CXX executable /home/martin/Documents/repositories/ur_test/devel/.private/moveit_tutorials/lib/moveit_tutorials/lerp_example[0m
+[ 97%] Built target lerp_example
+[100%] [32m[1mLinking CXX executable /home/martin/Documents/repositories/ur_test/devel/.private/moveit_tutorials/lib/moveit_tutorials/bullet_collision_checker_tutorial[0m
+[100%] Built target bullet_collision_checker_tutorial
