@@ -13,6 +13,10 @@ This is a simple package made to send the messages coming from the Biox Armband 
 ## Setup
 First step of the setup is to clone this repository.
 
+`ǵit clone https://github.com/BioxGroup/biox_ros.git`
+
+Since Noetic is not officially supported by Universal_Robots_ROS_Driver we have to build our workspace from source. 
+
 
 
 ## Simulation
